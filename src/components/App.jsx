@@ -88,7 +88,7 @@ class App extends React.Component {
                             </HalfPageLeft>
                             <HalfPageRight>
                                 <Image css={{content: 'url(dota-competitive.jpg)'}}/>
-                                <Header3>Live pro circuit tournament tac=b</Header3>
+                                <Header3>Live pro circuit tournament tab</Header3>
                                 <Paragraph>
                                     As the Dota Pro Circuit progresses towards The International, it should be easy to
                                     tune in for a stream without a scavenger hunt. Now when a Major or Minor is live,
